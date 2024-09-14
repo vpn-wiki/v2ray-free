@@ -1,4 +1,5 @@
 更新时间 2024-02-07 04:00  
+[![](https://github.com/vpn-wiki/v2ray-free/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 所有免费节点都爬取自网络，请勿用于非法用途  
 |  工具  | Android  | Windows  |  
 |  ----  | ----   | ----  |  
